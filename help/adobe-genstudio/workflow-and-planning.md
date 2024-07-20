@@ -12,7 +12,7 @@ jira: KT-14154
 source-git-commit: 3ded5e478ae37a582bd570fa0b6bf89a81d7580d
 workflow-type: tm+mt
 source-wordcount: '491'
-ht-degree: 20%
+ht-degree: 27%
 
 ---
 
@@ -90,7 +90,7 @@ Les solutions d’Adobe utilisées pour la planification et le workflow :
     <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
       <div class="top-card-content">
           <p class="headline is-size-6 has-text-weight-bold">
-              <a href="https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/workfront/overview.html" title="Intégrer Adobe Workfront et AEM Assets Essentials">Intégration d’Adobe Workfront et d’AEM Assets Essentials</a>
+              <a href="https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/workfront/overview.html" title="Intégrer Adobe Workfront et AEM Assets Essentials">Intégrer Adobe Workfront et AEM Assets Essentials</a>
           </p>
           <p class="is-size-6"><em>Découvrez comment intégrer Workfront et AEM Assets Essentials pour rationaliser la gestion des workflows créatifs.</em></p>
       </div>
@@ -103,20 +103,20 @@ Les solutions d’Adobe utilisées pour la planification et le workflow :
   <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
     <div class="card-image">
       <figure class="image x-is-16by9">
-        <a href="https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-creative-cloud/wf-adobe-cc.html" title="Utilisation des modules externes Adobe Workfront pour l’intégration à Creative Cloud" tabindex="-1">
-          <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3415452?format=jpeg" alt="Utilisation des modules externes Adobe Workfront pour l’intégration à Creative Cloud">
+        <a href="https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-creative-cloud/wf-adobe-cc.html" title="Utiliser les plug-in d’Adobe Workfront pour l’intégration à Creative Cloud" tabindex="-1">
+          <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3415452?format=jpeg" alt="Utiliser les plug-in d’Adobe Workfront pour l’intégration à Creative Cloud">
         </a>
       </figure>
     </div>
     <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
       <div class="top-card-content">
           <p class="headline is-size-6 has-text-weight-bold">
-              <a href="https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-creative-cloud/wf-adobe-cc.html" title="Utilisation des modules externes Adobe Workfront pour l’intégration à Creative Cloud">Utilisation des modules externes Adobe Workfront pour l’intégration à Creative Cloud</a>
+              <a href="https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-creative-cloud/wf-adobe-cc.html" title="Utiliser les plug-in d’Adobe Workfront pour l’intégration à Creative Cloud"> Utilisation des modules externes Adobe Workfront pour l’intégration à Creative Cloud</a>
           </p>
           <p class="is-size-6"><em>Intégrez Workfront à Creative Cloud pour rechercher et mettre à jour le travail qui vous est assigné sans quitter Adobe Creative Cloud.</em></p>
       </div>
       <a href="https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-creative-cloud/wf-adobe-cc.html" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-        <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Regarder la vidéo</span>
+        <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Regardez la vidéo</span>
       </a>
     </div>
   </div>
@@ -132,12 +132,12 @@ Les solutions d’Adobe utilisées pour la planification et le workflow :
     <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
       <div class="top-card-content">
           <p class="headline is-size-6 has-text-weight-bold">
-              <a href="https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/workfront/configure.html?lang=fr" title="Configuration d’Adobe Workfront et d’AEM Assets Essentials">Configuration d’Adobe Workfront et d’AEM Assets Essentials</a>
+              <a href="https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/workfront/configure.html?lang=fr" title="Configuration d’Adobe Workfront et d’AEM Assets Essentials"> Configuration d’Adobe Workfront et d’AEM Assets Essentials</a>
           </p>
           <p class="is-size-6"><em>Découvrez comment configurer l’intégration Adobe Workfront et Assets Essentials</em></p>
       </div>
       <a href="https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/workfront/configure.html?lang=fr" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-        <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Regarder la vidéo</span>
+        <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Regardez la vidéo</span>
       </a>
     </div>
   </div>
@@ -153,12 +153,12 @@ Les solutions d’Adobe utilisées pour la planification et le workflow :
     <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
       <div class="top-card-content">
           <p class="headline is-size-6 has-text-weight-bold">
-              <a href="https://experienceleague.adobe.com/docs/experience-manager-learn/assets/workfront/enhanced-connector/basics.html?lang=fr" title="Principes de base du connecteur amélioré Workfront">Notions de base sur les connecteurs améliorés Workfront</a>
+              <a href="https://experienceleague.adobe.com/docs/experience-manager-learn/assets/workfront/enhanced-connector/basics.html?lang=fr" title="Principes de base du connecteur amélioré Workfront">Workfront Enhanced connector basics</a>
           </p>
           <p class="is-size-6"><em>Découvrez les principes de base du connecteur amélioré Adobe Workfront et Experience Manager Assets.</em></p>
       </div>
       <a href="https://experienceleague.adobe.com/docs/experience-manager-learn/assets/workfront/enhanced-connector/basics.html?lang=fr" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-        <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Regarder la vidéo</span>
+        <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Regardez la vidéo</span>
       </a>
     </div>
   </div>
@@ -174,12 +174,12 @@ Les solutions d’Adobe utilisées pour la planification et le workflow :
     <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
       <div class="top-card-content">
           <p class="headline is-size-6 has-text-weight-bold">
-              <a href="https://experienceleague.adobe.com/docs/experience-manager-learn/assets/workfront/enhanced-connector/aem-experts-series/overview.html" title="Intégrer Workfront et AEM Assets avec le connecteur amélioré">Intégration de Workfront et d’AEM Assets au connecteur amélioré</a>
+              <a href="https://experienceleague.adobe.com/docs/experience-manager-learn/assets/workfront/enhanced-connector/aem-experts-series/overview.html" title="Intégrer Workfront et AEM Assets avec le connecteur amélioré">Intégrer Workfront et AEM Assets au connecteur amélioré</a>
           </p>
           <p class="is-size-6"><em>Série de vidéos en quatre parties sur l’intégration de Workfront et AEM Assets à l’aide du connecteur amélioré.</em></p>
       </div>
       <a href="https://experienceleague.adobe.com/docs/experience-manager-learn/assets/workfront/enhanced-connector/aem-experts-series/overview.html" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-        <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Regarder la vidéo</span>
+        <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Regardez la vidéo</span>
       </a>
     </div>
   </div>
@@ -262,6 +262,6 @@ Les solutions d’Adobe utilisées pour la planification et le workflow :
 ## Ressources supplémentaires
 
 * [Événements Experience League](https://experienceleague.adobe.com/events/)
-* [Adobe [!DNL GenStudio] sur business.adobe.com](https://business.adobe.com/solutions/adobe-genstudio.html)
+* [Adobe [!DNL GenStudio]  sur business.adobe.com](https://business.adobe.com/solutions/adobe-genstudio.html)
 * [Adobe [!DNL GenStudio] guide de ressources](https://business.adobe.com/resources/sdk/getting-started-with-adobe-genstudio.html)
 * [Adobe sur la chaîne d’approvisionnement de contenu](https://business.adobe.com/resources/webinars/adobe-on-the-content-supply-chain.html)
